@@ -1,0 +1,8 @@
+.services {
+  .card {
+    border: none;
+    &-title {
+      color: var(--main-color)
+    }
+  }
+}

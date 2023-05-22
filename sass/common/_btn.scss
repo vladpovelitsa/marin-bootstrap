@@ -1,0 +1,10 @@
+.btn-primary {
+  --bs-btn-bg:  var(--accent-dark-color);
+  --bs-btn-border-color:  var(--accent-dark-color);
+  --bs-btn-hover-bg:  transparent;
+  --bs-btn-hover-border-color:  var(--accent-dark-color);
+  border-radius: var(--border-radius);
+  color:#fff;
+  font-size: 18px;
+  line-height: 1.5;
+}
